@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "xpcf.jwt",
+      "type": "com.xpcf.blog.util.JwtUtils",
+      "sourceType": "com.xpcf.blog.util.JwtUtils"
+    }
+  ],
+  "properties": [
+    {
+      "name": "xpcf.jwt.expire",
+      "type": "java.lang.Long",
+      "sourceType": "com.xpcf.blog.util.JwtUtils"
+    },
+    {
+      "name": "xpcf.jwt.header",
+      "type": "java.lang.String",
+      "sourceType": "com.xpcf.blog.util.JwtUtils"
+    },
+    {
+      "name": "xpcf.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.xpcf.blog.util.JwtUtils"
+    }
+  ],
+  "hints": []
+}
